@@ -18,7 +18,7 @@ Ctrl+d (Backspace)	Delete character after cursor
 
 Ctrl+w	Delete word before cursor
 
-Alt+d	Delete word after the cursor
+Alt+d	  Delete word after the cursor
 
 Ctrl+u	Delete everything before the cursor
 
