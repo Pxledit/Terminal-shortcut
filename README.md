@@ -29,4 +29,4 @@ Ctrl+n (Down)|	Next command from the History|
 Ctrl+b (Left)	|Move back one character|
 Ctrl+f (Right)|	Move forward one character|
 ```
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
